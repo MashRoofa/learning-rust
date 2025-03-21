@@ -1,2 +1,6 @@
-/target
+# === Rust & Cargo ===
+**/target/
+**/Cargo.lock
+
+# === IDEs and Editors ===
 .idea
